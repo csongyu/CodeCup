@@ -3,4 +3,4 @@ numpy==1.26.4
 pandas==2.2.2
 matplotlib==3.8.4
 scikit-learn==1.4.2
-# https://ta-lib.github.io/ta-lib-python/install.html
+ta==0.11.0

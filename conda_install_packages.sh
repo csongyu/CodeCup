@@ -4,5 +4,6 @@ conda install numpy
 conda install pandas
 conda install matplotlib
 conda install scikit-learn
-# conda install -c conda-forge ta-lib
-pip install --upgrade ta
+pip install ta
+pip install tensorflow
+pip install scikeras
